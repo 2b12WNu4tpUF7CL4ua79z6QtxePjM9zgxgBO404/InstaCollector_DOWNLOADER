@@ -1,0 +1,8 @@
+I have primarily used Instacollector on both desktop and mobile devices. 
+On mobile, I had to use a Python coding application, specifically PyDroid 3, on an Android test phone. 
+For PyDroid 3, I configured the settings to use "Public documents" as the storage location 
+for the script and where all the downloads would occur.
+While both desktop and mobile devices can be used with Instacollector, 
+I recommend using desktop for large downloads. However, it is worth noting that both options can work. 
+Mobile devices may present challenges such as app exits or screen timeouts, 
+but they are still viable for using Instacollector.
